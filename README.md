@@ -37,8 +37,8 @@ Hey Guys ğŸ‘‹, I'm Safdar Rehman, An undergradute Software Engineering student ğ
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BilalRehman08&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=BilalRehman08&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BilalRehman08&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=safder951//?user=safder951&theme=dracula"  width=60% />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=safder951//?user=safder951&theme=dracula"  width=60% /> -->
